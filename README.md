@@ -8,6 +8,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | ------- |
 | [0001-two-sum](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ This repository contains my personal solutions to various problems on LeetCode. 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
