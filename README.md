@@ -15,6 +15,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0217-contains-duplicate) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0231-power-of-two](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0263-ugly-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
