@@ -23,6 +23,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -36,4 +37,9 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
