@@ -12,6 +12,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0027-remove-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
