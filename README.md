@@ -31,6 +31,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0070-climbing-stairs](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -97,4 +98,12 @@ This repository contains my personal solutions to various problems on LeetCode. 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
