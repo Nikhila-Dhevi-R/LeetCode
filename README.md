@@ -15,6 +15,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0414-third-maximum-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -26,6 +27,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0202-happy-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0088-merge-sorted-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -72,6 +75,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +92,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0169-majority-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0414-third-maximum-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
