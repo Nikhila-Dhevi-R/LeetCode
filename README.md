@@ -7,6 +7,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,12 @@ This repository contains my personal solutions to various problems on LeetCode. 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
