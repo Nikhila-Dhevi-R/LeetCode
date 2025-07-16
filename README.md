@@ -20,6 +20,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -49,4 +50,12 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
