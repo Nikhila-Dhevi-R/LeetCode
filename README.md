@@ -19,12 +19,14 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | ------- |
 | [0001-two-sum](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
