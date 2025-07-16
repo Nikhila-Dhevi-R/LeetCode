@@ -1,14 +1,6 @@
 class Solution:
-    def addDigits(self, num: int) -> int:
+    def addDigits(self, n: int) -> int:
         
-        while num>=10:
-            sum=0
-            temp = num
-
-            while temp>=1 :
-                digit = temp %10
-                sum+=digit
-                temp//=10
-
-            num = sum   
-        return num
+        while n>=10:
+            n = sum(int(i) for i in str(n))
+        return n
