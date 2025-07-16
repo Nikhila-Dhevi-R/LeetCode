@@ -29,6 +29,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0069-sqrtx](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -85,4 +86,12 @@ This repository contains my personal solutions to various problems on LeetCode. 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
