@@ -15,6 +15,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0414-third-maximum-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
@@ -87,6 +88,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0169-majority-element](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0414-third-maximum-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
