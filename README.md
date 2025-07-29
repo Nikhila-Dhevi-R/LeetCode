@@ -23,6 +23,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0074-search-a-2d-matrix](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +123,7 @@ This repository contains my personal solutions to various problems on LeetCode. 
 | [0231-power-of-two](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Recursion
 |  |
 | ------- |
@@ -149,4 +152,8 @@ This repository contains my personal solutions to various problems on LeetCode. 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nikhila-Dhevi-R/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
